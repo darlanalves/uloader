@@ -1,6 +1,6 @@
 {
   "name": "uloader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "micro file loader",
   "main": "index.js",
   "scripts": {},

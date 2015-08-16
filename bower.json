@@ -1,0 +1,18 @@
+{
+  "name": "uloader",
+  "version": "0.1.0",
+  "homepage": "https://github.com/darlanalves/uloader",
+  "authors": [
+    "Darlan Alves <me@darlanalv.es>"
+  ],
+  "description": "micro file loader",
+  "main": "dist/uloader.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
